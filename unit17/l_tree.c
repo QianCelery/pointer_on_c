@@ -1,10 +1,10 @@
 /*
  * @Author: Celery
  * @Date: 2021-10-30 19:24:17
- * @LastEditTime: 2021-11-01 10:36:16
+ * @LastEditTime: 2021-11-01 16:42:54
  * @LastEditors: Celery
  * @Description: 链式二叉树功能实现
- * @FilePath: \unit17\l_tree.c
+ * @FilePath: \无标题 (工作区)c:\source\pointers_on_c\unit17\l_tree.c
  * 
  */
 #include "tree.h"
